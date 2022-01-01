@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SARM256
+- 👀 I’m interested in Coding, And Tring To Find Problems And Then Searching And Finding Out Solutions For Them 
+- 🌱 I’m currently learning C#
